@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{  
+            border: solid 1px black;
+            background-color: burlywood;    
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+            img{
+            display: block;
+            margin: 20px auto; 
+            max-width: 80%; 
+            border-radius: 8px;
+                
+            
+        }
+    </style>
+</head>
+<body>
+    <header>  
+    <a href="index.html" class="botao">Pagina Inicial</a>  
+
+    </header>
+    <main>  
+       <article>  
+        <h1>Diario</h1>  
+        <img src="img/Moto.jpg" alt="Moto">
+        <p>10 de junho de 2025<p>
+   
+
+</p>
+Hoje fiquei pensando em um dos meus maiores sonhos: ter uma 
+Hornet. Não é só pelo visual ou pelo barulho marcante, é pela 
+sensação de liberdade que ela representa pra mim. 
+Imagino o vento no rosto, a estrada aberta e aquela 
+sensação de estar realmente vivo. Sei que ainda vai 
+levar um tempo, mas um dia eu chego lá. Cada passo 
+que dou me aproxima um pouco mais desse sonho.</p>
+        
+       </article> 
+       <footer>Pedro Classe</footer>
+    </main>
+</body>
+</html>
